@@ -29,6 +29,12 @@ Users can simulate turning smart devices (like bulbs, lights, fans, etc.) **ON/O
 - **IDE:** Android Studio
 - **Design:** Custom neon effect UI
 
+![E1](https://github.com/user-attachments/assets/fc34b856-d312-4d28-89d5-05f0e7e7a015)
+![E2](https://github.com/user-attachments/assets/af30bf64-96c1-46de-a436-32b9de6faead)
+![E3](https://github.com/user-attachments/assets/f95915c7-898e-473f-866a-086c9da610c0)
+![E4](https://github.com/user-attachments/assets/e3b613a7-bbc8-4ef6-b8a9-9e61128cd143)
+![E5](https://github.com/user-attachments/assets/7bbcc73c-b7c4-4d97-a2d7-ff84ad7c9222)
+
 # Future Scope
 
 - Integration with real IoT devices (e.g. ESP32, MQTT, Firebase)
